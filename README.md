@@ -4,7 +4,7 @@
 ## 部署方法
 
 ```shell
-https://github.com/tcbaby/gnome-theme-macos.git
+git clone https://github.com/tcbaby/gnome-theme-macos.git
 cd gnome-theme-macos
 sh install.sh
 ```
