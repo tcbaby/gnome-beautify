@@ -1,6 +1,8 @@
 
 # gnome-theme-macos
 
+![](/images/3.png)
+
 ## 部署方法
 
 ```shell
