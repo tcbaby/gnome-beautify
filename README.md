@@ -1,5 +1,5 @@
 
-# gnome-theme-macos
+# gnome-beautify
 
 ![](/images/3.png)
 
